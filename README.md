@@ -4,7 +4,7 @@ Contributors: drdot<br>
 Flist the File Lister.  Just a nice simple wordpress plugin that produces a list of files in a folder along with dynamically generated thumbnails. <br>
 == Description ==<br>
 <br>
-TFlist the File Lister.  Just a nice simple wordpress plugin that produces a list of files in a folder along with dynamically generated thumbnails. <br>
+Flist the File Lister.  Just a nice simple wordpress plugin that produces a list of files in a folder along with dynamically generated thumbnails. <br>
 <br>
 Supports multiple directories, sub-directories, size and name suppression.<br>
 Open source, free to use.<br>
