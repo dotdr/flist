@@ -1,0 +1,42 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.field-set {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.field-set h2 {
+    margin-top: 0;
+}
+.field-set label {
+    display: block;
+    margin-bottom: 5px;
+}
+.field-set input[type="text"] {
+    width: 100%;
+    padding: 5px 5px 5px 0px;
+    margin-bottom: 10px;
+}
+.form-table, .form-table td, .form-table td p {
+    font-size: 14px;
+    margin: 0px;
+    padding: 5px 5px 5px 0px;
+}
+.form-table th {
+    font-size: 14px;
+    width: auto;
+    text-align: right;
+    padding: 5px 5px 5px 0px;
+}
+.form-table tr {
+    padding: 5px 5px 5px 0px;
+}
+
+
+h2 {
+    font-size: 1.5em;
+    text-decoration-line: underline;
+}
